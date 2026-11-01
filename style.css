@@ -1,3 +1,4 @@
+@import url('motion.css');
 :root{--paper:#f4f1e9;--cream:#fbfaf6;--sand:#e9e3d5;--olive:#5f6350;--forest:#343c31;--ink:#222921;--muted:#5d625a;--line:#d1cec3;--serif:Georgia,'Times New Roman',serif;--sans:system-ui,-apple-system,'Segoe UI',Roboto,sans-serif}
 @media(prefers-color-scheme:dark){:root{--paper:#171b16;--cream:#1e231d;--sand:#262c24;--olive:#a9ae94;--forest:#e9e3d5;--ink:#efece3;--muted:#a3a89c;--line:#343b31}}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.7 var(--sans);-webkit-font-smoothing:antialiased}
